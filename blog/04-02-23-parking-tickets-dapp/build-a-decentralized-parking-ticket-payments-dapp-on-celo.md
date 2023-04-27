@@ -85,7 +85,7 @@ You need to install these dependencies to run the sample project:
 
 This will scaffold a new hardhat project as shown below;
 
-![image](folders.PNG)
+![folders](https://user-images.githubusercontent.com/62109301/234999323-8350b9da-4446-4ec8-a5dd-de5b36dea914.png)
 
 With the basic hardhat setup, it is enough to start building and testing smart contracts. But I like to make it more convenient by  using hardhat with another library called `hardhat deploy`
 
